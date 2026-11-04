@@ -1,0 +1,8 @@
+Szeged 85 3
+Baja 160 5
+Miskolc 200 1
+Eger 160 0
+Gyor 140 4
+Vac 40 0
+Cegled 70 3
+Sopron 300 2
